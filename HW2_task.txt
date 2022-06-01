@@ -1,4 +1,4 @@
-meter_2 HW
+Jmeter_2 HW
 
 1) http://162.55.220.72:5005/user_info
 req. (RAW JSON)
